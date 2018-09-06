@@ -1,4 +1,4 @@
-package com.teamSankya.calculator;
+package com.teamsankya.calculator;
 
 import org.apache.log4j.Appender;
 import org.apache.log4j.ConsoleAppender;
@@ -34,6 +34,10 @@ public class Addition {
 	   return a+b;
    }
    public static long add(long a,long b) {
+	   return a+b;
+   }
+   public static float add(float a, float b)
+   {
 	   return a+b;
    }
 }

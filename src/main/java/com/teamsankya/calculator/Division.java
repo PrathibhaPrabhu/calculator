@@ -1,4 +1,4 @@
-package com.teamSankya.calculator;
+package com.teamsankya.calculator;
 
 public class Division {
 	 public static int devide(int a,int b) {

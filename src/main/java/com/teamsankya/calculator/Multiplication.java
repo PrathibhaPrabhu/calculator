@@ -1,4 +1,4 @@
-package com.teamSankya.calculator;
+package com.teamsankya.calculator;
 
 public class Multiplication {
 	 public static int multiply(int a,int b) {

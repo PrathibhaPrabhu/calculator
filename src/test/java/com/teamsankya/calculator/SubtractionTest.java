@@ -1,8 +1,8 @@
-package com.teamaankya.calculator;
+package com.teamsankya.calculator;
 
 import org.junit.Test;
 
-import com.teamSankya.calculator.Subtraction;
+
 
 import junit.framework.TestCase;
 

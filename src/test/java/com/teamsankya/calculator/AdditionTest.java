@@ -1,4 +1,4 @@
-package com.teamaankya.calculator;
+package com.teamsankya.calculator;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
-import com.teamSankya.calculator.Addition;
+
 
 @RunWith(Parameterized.class)
 public class AdditionTest {

@@ -1,4 +1,4 @@
-package com.teamSankya.calculator;
+package com.teamsankya.calculator;
 
 public class Subtraction {
 	 public static int subtract(int a,int b) {
